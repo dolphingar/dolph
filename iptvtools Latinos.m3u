@@ -49,53 +49,33 @@ http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1,MILENIO TV www.m3ugratis.com
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1,iptvtools_100
+#EXTINF:-1,PIGUINO TV HD www.m3ugratis.com
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
-#EXTINF:-1,iptvtools_102
+#EXTINF:-1,TELEMAX ARG www.m3ugratis.com
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,iptvtools_108
+#EXTINF:-1,CANAL VASCO ESP www.m3ugratis.com
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1,iptvtools_110
+#EXTINF:-1, EXTREMA TV www.m3ugratis.com
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,iptvtools_113
-http://graph.facebook.com/antena3/picture?width=320&height=320
-#EXTINF:-1,iptvtools_115
-http://graph.facebook.com/cuatro/picture?width=320&height=320
-#EXTINF:-1,iptvtools_117
-http://graph.facebook.com/cuatro/picture?width=320&height=320
-#EXTINF:-1,iptvtools_119
-http://graph.facebook.com/tele5/picture?width=320&height=320
-#EXTINF:-1,iptvtools_121
-http://graph.facebook.com/tele5/picture?width=320&height=320
-#EXTINF:-1,iptvtools_123
-http://graph.facebook.com/laSexta/picture?width=320&height=320
-#EXTINF:-1,iptvtools_125
-http://graph.facebook.com/RedBull/picture?width=320&height=320
-#EXTINF:-1,iptvtools_126
+#EXTINF:-1,Redbull TV HD www.m3ugratis.com
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,iptvtools_127
-http://graph.facebook.com/boinges/picture?width=320&height=320
-#EXTINF:-1,iptvtools_129
-http://graph.facebook.com/boinges/picture?width=320&height=320
-#EXTINF:-1,iptvtools_131
-http://graph.facebook.com/hittv.es/picture?width=320&height=320
-#EXTINF:-1,iptvtools_134
+#EXTINF:-1,RETRO MUCIC TV www.m3ugratis.com
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1,iptvtools_136
+#EXTINF:-1,RETRO MUSIC TV OP 2 www.m3ugratis.com
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
-#EXTINF:-1,iptvtools_148
+#EXTINF:-1,DEPORTES:AD Sports 1 HD
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1,iptvtools_150
+#EXTINF:-1,DEPORTES:AD Sports 2 HD
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1,iptvtools_158
+#EXTINF:-1,NOTICIAS:CGTN 1
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,iptvtools_167
+#EXTINF:-1,Gracia TV
 http://v3.tustreaming.cl/graciatv/live1/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,iptvtools_174
+#EXTINF:-1,Canal 26 2 www.m3ugratis.com
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?
-#EXTINF:-1,iptvtools_176
+#EXTINF:-1,Canal 26 3 www.m3ugratis.com
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?
-#EXTINF:-1,iptvtools_178
+#EXTINF:-1, ARGENTINA:TLX www.m3ugratis.com
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
 #EXTINF:-1,iptvtools_182
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
