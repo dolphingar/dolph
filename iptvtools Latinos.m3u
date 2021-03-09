@@ -225,65 +225,65 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1,"MUSICA", Carolina TV (Chile)
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_409
+#EXTINF:-1,Latinos:TV Chile
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
-#EXTINF:-1,iptvtools_410
+#EXTINF:-1,"MUSICA", PortalFoxMix Tv
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,iptvtools_413
+#EXTINF:-1,TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
-#EXTINF:-1,iptvtools_415
+#EXTINF:-1,Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_418
+#EXTINF:-1,"ECUADOR", UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-#EXTINF:-1,iptvtools_422
+#EXTINF:-1,ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-#EXTINF:-1,iptvtools_427
+#EXTINF:-1,MILENIO TV
 http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1,iptvtools_428
+#EXTINF:-1,Teleceiba Canal 7
 http://190.11.224.14:8134/liveevent.m3u8
-#EXTINF:-1,iptvtools_430
+#EXTINF:-1,Multimedios (Mexico)
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1,iptvtools_448
+#EXTINF:-1,"HONDURAS", EBENEZER HD
 http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
-#EXTINF:-1,iptvtools_456
+#EXTINF:-1,CINE Y SERIES:Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,iptvtools_458
+#EXTINF:-1,Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,iptvtools_466
+#EXTINF:-1,ENTRETENIMIENTO:Multimedios (Mexico)
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1,iptvtools_468
+#EXTINF:-1,MULTIMEDIOS MONTERREY HD
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1,iptvtools_472
+#EXTINF:-1,Music Top (ARG)
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:-1,iptvtools_474
+#EXTINF:-1,ARGENTINA:Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1,iptvtools_476
+#EXTINF:-1,Canal 26 1
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_478
+#EXTINF:-1,Canal 26 2
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_480
+#EXTINF:-1,Canal 26 3
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_484
+#EXTINF:-1,Nacional:Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,iptvtools_486
+#EXTINF:-1,Nacional:Televisión Rionegrina
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1,iptvtools_488
+#EXTINF:-1,Nacional:Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
-#EXTINF:-1,iptvtools_492
+#EXTINF:-1,UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-#EXTINF:-1,iptvtools_494
+#EXTINF:-1,BHTV
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
-#EXTINF:-1,iptvtools_508
+#EXTINF:-1,TV Noticias
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1,iptvtools_512
+#EXTINF:-1,Canal UCR
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
-#EXTINF:-1,iptvtools_514
+#EXTINF:-1,Canal BHtv
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_516
+#EXTINF:-1,CANAL 6
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
-#EXTINF:-1,iptvtools_518
+#EXTINF:-1,MUSICA:La Mega Mundial (EU)
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1,iptvtools_520
+#EXTINF:-1,MUSICA:Music Top (Argentina)
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1,iptvtools_522
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
