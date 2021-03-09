@@ -205,25 +205,25 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chi
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1,"MUSICA", CHAU Tv
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-#EXTINF:-1,iptvtools_387
+#EXTINF:-1,"MUSICA", CMC
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
-#EXTINF:-1,iptvtools_388
+#EXTINF:-1,"MUSICA", FS1
 http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1,iptvtools_389
+#EXTINF:-1,"MUSICA", RUTV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1,iptvtools_392
+#EXTINF:-1,"MUSICA", Mezzo
 http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:-1,iptvtools_397
+#EXTINF:-1,Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-#EXTINF:-1,iptvtools_399
+#EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,iptvtools_400
+#EXTINF:-1,"MUSICA", La Mega Mundial (EU)
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1,iptvtools_402
+#EXTINF:-1,"MUSICA", Music Top (Argentina)
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1,iptvtools_404
+#EXTINF:-1,ARGENTINA:Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1,iptvtools_405
+#EXTINF:-1,"MUSICA", Carolina TV (Chile)
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:-1,iptvtools_409
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
