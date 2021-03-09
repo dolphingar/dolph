@@ -3,7 +3,7 @@
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1,CANAL 4
 http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1,"ARGENTINA" CN 24/7
+#EXTINF:-1,"ARGENTINA", CN 24/7
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,ATVHD
 http://85.132.81.184:8080/atv/index.m3u8
@@ -13,27 +13,27 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
 #EXTINF:-1,Multimedios Costa Rica
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
-#EXTINF:-1,"NACIONALES" Telemax
+#EXTINF:-1,"NACIONALES", Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
-#EXTINF:-1,"NACIONALES" Multivision Argentina
+#EXTINF:-1,"NACIONALES", Multivision Argentina
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:-1,"NACIONALES", Canal 10
 https://i.vimeocdn.com/portrait/8846221_300x300
-#EXTINF:-1,iptvtools_58
+#EXTINF:-1,"NACIONALES", Canal 10
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,iptvtools_61
+#EXTINF:-1,"NACIONALES", Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1,iptvtools_64
+#EXTINF:-1,"NACIONALES", TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?NACIONALES.m3u8
-#EXTINF:-1,iptvtools_66
+#EXTINF:-1,"NACIONALES", UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1,iptvtools_68
+#EXTINF:-1,"NACIONALES", UMAG TV
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
-#EXTINF:-1,iptvtools_70
+#EXTINF:-1,"NACIONALES", VTV 2
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
-#EXTINF:-1,iptvtools_72
+#EXTINF:-1,"NACIONALES", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,iptvtools_73
+#EXTINF:-1,"NACIONALES", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:-1,iptvtools_78
 https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
