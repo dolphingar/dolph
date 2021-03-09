@@ -111,103 +111,99 @@ http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
 #EXTINF:-1,TLX HD
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1,iptvtools_267
+#EXTINF:-1,TLX TV
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1,iptvtools_282
+#EXTINF:-1,"MUSICA", PortalFoxMix Tv HD
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1,iptvtools_283
+#EXTINF:-1,"MUSICA", La Mega Mundial HD
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1,iptvtools_287
+#EXTINF:-1,EITB 1
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8
-#EXTINF:-1,iptvtools_288
+#EXTINF:-1,EITB 2
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
-#EXTINF:-1,iptvtools_289
+#EXTINF:-1,"SPAIN", EITB 3
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-#EXTINF:-1,iptvtools_290
+#EXTINF:-1,"SPAIN", 7 Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1,iptvtools_295
+#EXTINF:-1,RCG 2 Saltillo
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1,iptvtools_296
+#EXTINF:-1,"MEXICO", RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1,iptvtools_298
+#EXTINF:-1,"MEXICO", Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,iptvtools_301
+#EXTINF:-1,"MEXICO", Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_302
+#EXTINF:-1,"MEXICO", Multimedios
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_308
+#EXTINF:-1,"COLOMBIA", Canal Capital HD
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1,iptvtools_310
+#EXTINF:-1,"COLOMBIA", Telecaribe
 http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
-#EXTINF:-1,iptvtools_312
+#EXTINF:-1,"PERU", Monterrico TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1,iptvtools_314
+#EXTINF:-1,"PERU", Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1,iptvtools_318
+#EXTINF:-1,"PERU", Cultura 24
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-#EXTINF:-1,iptvtools_319
+#EXTINF:-1,"PERU", Canal BHtv
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_320
+#EXTINF:-1,"ARGENTINA", Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_321
+#EXTINF:-1,"ARGENTINA", TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_323
+#EXTINF:-1,"ARGENTINA", Canal Provincial
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1,iptvtools_324
+#EXTINF:-1,"ARGENTINA", Litus Tv
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:-1,iptvtools_325
+#EXTINF:-1,"ARGENTINA", 247 Noticias
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-#EXTINF:-1,iptvtools_326
+#EXTINF:-1,"ARGENTINA", Multivision
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
-#EXTINF:-1,iptvtools_328
+#EXTINF:-1,"ARGENTINA", Canal 26 1
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_329
+#EXTINF:-1,"ARGENTINA", Canal 26 2
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_330
+#EXTINF:-1,"ARGENTINA", Canal 26 3
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_338
+#EXTINF:-1,"CHILE", VC Online HD
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
-#EXTINF:-1,iptvtools_340
+#EXTINF:-1,"NOTICIAS", CGTN 1
 https://livees.cgtn.com/1000e/prog_index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,iptvtools_343
+#EXTINF:-1,"MODA", Fashion Tv
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,iptvtools_345
+#EXTINF:-1,"DEPORTES", Telecaribe Deportes
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 #EXTINF:-1,iptvtools_348
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8
-#EXTINF:-1,iptvtools_354
+#EXTINF:-1,Real Madrid TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,iptvtools_356
+#EXTINF:-1,"DEPORTES", Abu Dhabi Sports OP 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,iptvtools_360
+#EXTINF:-1,"DEPORTES", Abu Dhabi Sports OP 2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,iptvtools_364
+#EXTINF:-1,DEPORTES", Al Kass Sports
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,iptvtools_365
+#EXTINF:-1,"DEPORTES", Al Kass Sports
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,iptvtools_366
+#EXTINF:-1,"DEPORTES", Al Kass Sports
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,iptvtools_367
+#EXTINF:-1,Al Kass Sports 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,iptvtools_368
+#EXTINF:-1,Al Kass Sports 3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,iptvtools_372
+#EXTINF:-1,"MUSICA", Music Top HD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
-#EXTINF:-1,iptvtools_373
-https://lh3.googleusercontent.com/i1MJYrbhLfwErktZjjue1a98T6n8yzU6sNo-3b_ihoQglxFGipTO4yfmqBBk4AC7lA=s180-rw
-#EXTINF:-1,iptvtools_377
+#EXTINF:-1,"MUSICA", Retro Tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_378
+#EXTINF:-1,"MUSICA", RetroTV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1,iptvtools_379
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-#EXTINF:-1,iptvtools_381
+#EXTINF:-1,"MUSICA", Radio Italia Vision
+  http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1"MUSICA", M2o Tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_382
+#EXTINF:-1,"MUSICA", GO RT
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1,iptvtools_383
-http://lh3.googleusercontent.com/V5tg-A9mM5rfPTlOD8MVkLtIYyNYp5b7LThk_na9k82u77SzSJfxcD4MQioHXQ6iKgbI=w150
-#EXTINF:-1,iptvtools_385
+#EXTINF:-1,"MUSICA", CHAU Tv
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1,iptvtools_387
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
