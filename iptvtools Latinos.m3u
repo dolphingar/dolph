@@ -17,9 +17,9 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1,"NACIONALES", Multivision Argentina
 http://panel.dattalive.com:1935/8250/8250/.m3u8
-#EXTINF:-1,"NACIONALES", Canal 10
+#EXTINF:-1,"NACIONALES", Canal 10 OP 1
 https://i.vimeocdn.com/portrait/8846221_300x300
-#EXTINF:-1,"NACIONALES", Canal 10
+#EXTINF:-1,"NACIONALES", Canal 10 OP 2
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1,"NACIONALES", Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
@@ -77,49 +77,39 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b18
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?
 #EXTINF:-1, ARGENTINA:TLX www.m3ugratis.com
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
-#EXTINF:-1,iptvtools_182
+#EXTINF:-1,ARGENTINA:Canal Provincial
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1,iptvtools_184
+#EXTINF:-1,ARGENTINA:Litus Tv
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:-1,iptvtools_188
+#EXTINF:-1,COLOMBIA:Canal Capital HD
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1,iptvtools_194
+#EXTINF:-1,MUSICA:PortalFoxMix Tv
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_196
+#EXTINF:-1,MUSICA:VTV HD
 http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_204
+#EXTINF:-1,MUSICA:Retro Tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_206
+#EXTINF:-1,MUSICA:Radio Italia Vision
 http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-#EXTINF:-1,iptvtools_208
+#EXTINF:-1,MUSICA:M2o Tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_212
+#EXTINF:-1,MUSICA:CHAU Tv
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-#EXTINF:-1,iptvtools_216
-https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
-#EXTINF:-1,iptvtools_218
-https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
-#EXTINF:-1,iptvtools_220
-https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
-#EXTINF:-1,iptvtools_222
-https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
-#EXTINF:-1,iptvtools_224
-https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
-#EXTINF:-1,iptvtools_236
+#EXTINF:-1,REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,iptvtools_238
+#EXTINF:-1,M2OTV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,iptvtools_241
+#EXTINF:-1,BLOOMBERG
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1,iptvtools_246
+#EXTINF:-1,TeleSafor
 http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1,iptvtools_248
+#EXTINF:-1,TeleSafor | HD
 http://video.telesafor.com/hls/video_high.m3u8
-#EXTINF:-1,iptvtools_258
+#EXTINF:-1,The Weather Network
 http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
-#EXTINF:-1,iptvtools_263
+#EXTINF:-1,TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
-#EXTINF:-1,iptvtools_265
+#EXTINF:-1,TLX HD
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1,iptvtools_267
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?tecnotv.info?iptv.m3u8
