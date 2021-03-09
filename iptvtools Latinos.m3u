@@ -35,19 +35,19 @@ http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,"NACIONALES", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:-1,iptvtools_78
+#EXTINF:-1,"Musica", Latinos UP
 https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
-#EXTINF:-1,iptvtools_81
+#EXTINF:-1,"Musica", Music Top
 http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
-#EXTINF:-1,iptvtools_84
+#EXTINF:-1,"Musica", California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-#EXTINF:-1,iptvtools_86
+#EXTINF:-1,"Musica", RetroTV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1,iptvtools_88
+#EXTINF:-1,"Cultura", Garage TV
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
-#EXTINF:-1,iptvtools_94
+#EXTINF:-1,CANAL 10 CHETUMAL www.m3ugratis.com
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,iptvtools_96
+#EXTINF:-1,MILENIO TV www.m3ugratis.com
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1,iptvtools_100
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
