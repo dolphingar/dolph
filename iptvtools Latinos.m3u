@@ -383,73 +383,73 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w652596162_b2628000_sleng.m3u8
 #EXTINF:-1,ARG CANAL 26 HD
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:-1,iptvtools_727
+#EXTINF:-1,ARGENTINA:13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
-#EXTINF:-1,iptvtools_730
+#EXTINF:-1,El Garaje TV | SD
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_732
+#EXTINF:-1,ARG CANAL 26 HD
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:-1,iptvtools_734
+#EXTINF:-1,CANAL 26
 http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1,iptvtools_738
+#EXTINF:-1,"ARG: Argentina", ARG: LITUS TV SANTA FE
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:-1,iptvtools_742
+#EXTINF:-1,"ARG: Argentina", ARG: MULTIMEDIOS (1+)
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1,iptvtools_744
+#EXTINF:-1,"ARG: Argentina", ARG: PINGUINO TV OPT 1
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
-#EXTINF:-1,iptvtools_754
+#EXTINF:-1,"MX: Mexico", MX: CANAL 10 CANCUN
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,iptvtools_756
+#EXTINF:-1,"MX: Mexico", MX: CANAL CAPITAL HD
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1,iptvtools_764
+#EXTINF:-1,"MX: Mexico", MX: COLOSAL TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1,iptvtools_766
+#EXTINF:-1,"MX: Mexico", MX: COMUNION TV
 http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_774
+#EXTINF:-1,"MX: Mexico", MX: EDE TV
 http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_b1894400_slNLD.m3u8
-#EXTINF:-1,iptvtools_778
+#EXTINF:-1,"MX: Mexico", MX: ESPERANZA TV USA
 http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
-#EXTINF:-1,iptvtools_780
+#EXTINF:-1,"MX: Mexico", MX: EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,iptvtools_788
+#EXTINF:-1,"MX: Mexico", MX: MICROVISION 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
-#EXTINF:-1,iptvtools_790
+#EXTINF:-1,"MX: Mexico", MX: MICROVISION CANAL 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-#EXTINF:-1,iptvtools_792
+#EXTINF:-1,"MX: Mexico", MX: MONTE MARIA CA
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
-#EXTINF:-1,iptvtools_794
+#EXTINF:-1,"MX: Mexico", MX: MULTIMEDIOS MONTERREY OPT 1
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1,iptvtools_800
+#EXTINF:-1,"MX: Mexico", MX: PORTAL FOXMIX
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1,iptvtools_804
+#EXTINF:-1,"MX: Mexico", MX: RED ADVENIR
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
-#EXTINF:-1,iptvtools_806
+#EXTINF:-1,"MX: Mexico", MX: RTQ QUERETARO
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1,iptvtools_808
+#EXTINF:-1,"MX: Mexico", MX: RTV ARNHEM
 http://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/chunklist_b1894400_slNLD.m3u8
-#EXTINF:-1,iptvtools_810
+#EXTINF:-1,"MX: Mexico", MX: TELECEIBA CANAL 7
 http://190.11.224.14:8134/liveevent.m3u8
-#EXTINF:-1,iptvtools_818
+#EXTINF:-1,"MX: Mexico", MX: TELESUR
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1,iptvtools_838
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1,iptvtools_840
+#EXTINF:-1,"MX: Mexico", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1,iptvtools_842
+#EXTINF:-1,"PERU", Lancelot TV PELI
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1,iptvtools_844
+#EXTINF:-1,"PERU", Monterrico TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1,iptvtools_848
+#EXTINF:-1,"Entretenimiento", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:-1,iptvtools_850
+#EXTINF:-1,"Entretenimiento", Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
-#EXTINF:-1,iptvtools_854
+#EXTINF:-1,"Entretenimiento", American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1,iptvtools_858
+#EXTINF:-1,"Entretenimiento", Multimedios Torreon
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
-#EXTINF:-1,iptvtools_860
+#EXTINF:-1,"Entretenimiento", Multimedios Costa Rica
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
-#EXTINF:-1,iptvtools_862
+#EXTINF:-1,Entretenimiento", Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1,iptvtools_864
 http://panel.dattalive.com:1935/8250/8250/.m3u8
