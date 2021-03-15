@@ -531,35 +531,35 @@ http://200.115.193.177/live/26hd-720/.m3u8
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1,"NOTICIAS", Bloomberg Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1,iptvtools_1093
+#EXTINF:-1,"Channels", TeleSafor
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1,iptvtools_1098
+#EXTINF:-1,"Without category", Syria News
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
-#EXTINF:-1,iptvtools_1105
+#EXTINF:-1,"Channels", ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1,iptvtools_1109
+#EXTINF:-1,"Channels", Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1,iptvtools_1113
+#EXTINF:-1,"Channels", TeleSafor
 http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1,iptvtools_1119
+#EXTINF:-1,"Channels", PT: MASTER TV HD
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
-#EXTINF:-1,iptvtools_1121
+#EXTINF:-1,"Channels", SP: ALCARRIA TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1,iptvtools_1123
+#EXTINF:-1,"Channels", TV Galicia America
 http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,iptvtools_1129
+#EXTINF:-1,"Channels", Mola TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1,iptvtools_1131
+#EXTINF:-1,"SPAIN", 7 Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1,iptvtools_1145
+#EXTINF:-1,"Without category", Madird tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1,iptvtools_1165
+#EXTINF:-1,"SPAIN", Real Madrid TV (Opt-1)
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1,iptvtools_1169
+#EXTINF:-1,"SPAIN", TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,iptvtools_1171
+#EXTINF:-1,"SPAIN", TVG Xabarin
 http://infantil-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1,iptvtools_1173
+#EXTINF:-1,"SPAIN", Vega Baja TV
 http://185.29.68.24/tvb.m3u8
 #EXTINF:-1,iptvtools_1174
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
