@@ -561,75 +561,73 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 http://infantil-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1,"SPAIN", Vega Baja TV
 http://185.29.68.24/tvb.m3u8
-#EXTINF:-1,iptvtools_1174
+#EXTINF:-1,"NACIONALES", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1,iptvtools_1178
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1,iptvtools_1180
+#EXTINF:-1,EXTREMA TV www.m3ugratis.com
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,iptvtools_1184
+#EXTINF:-1,"DEPORTES", Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1,iptvtools_1188
+#EXTINF:-1,"Without category", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1,iptvtools_1190
+#EXTINF:-1,"PERU", Ovacion | SD
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1,iptvtools_1196
+#EXTINF:-1,"Without category", CANAL 8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,iptvtools_1203
+#EXTINF:-1,"Without category", Lancelot TV PELI
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1,iptvtools_1204
+#EXTINF:-1,"Entretenimiento", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:-1,iptvtools_1209
+#EXTINF:-1,"MEXICO", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,iptvtools_1211
+#EXTINF:-1,"MEXICO", Multimedios Laguna | HD
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1,iptvtools_1212
+#EXTINF:-1,"MEXICO", Milenio | SD
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1,iptvtools_1219
+#EXTINF:-1,"MEXICO", RCG 2 | SD
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1,iptvtools_1220
+#EXTINF:-1,"MEXICO", RCG 3 | SD
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1,iptvtools_1225
+#EXTINF:-1,"ESPAÑA", Real Madrid TV | SD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1,iptvtools_1228
+#EXTINF:-1,"ESPAÑA", Lancelot TV | SD
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1,iptvtools_1229
+#EXTINF:-1,"ESPAÑA", ETBSAT | SD
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1,iptvtools_1230
+#EXTINF:-1,"ESPAÑA", Lebrija TV | SD
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1,iptvtools_1233
+#EXTINF:-1,"ESPAÑA", TV Galicia America | SD
 http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,iptvtools_1234
+#EXTINF:-1,"ESPAÑA", TV Galicia Europa | SD
 http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,iptvtools_1237
+#EXTINF:-1,"ESPAÑA", Canaria Sat Television | SD
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
-#EXTINF:-1,iptvtools_1238
+#EXTINF:-1,"ESPAÑA", TeleSafor | HD
 http://video.telesafor.com/hls/video_high.m3u8
-#EXTINF:-1,iptvtools_1239
+#EXTINF:-1,"ESPAÑA", 7TV | SD
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1,iptvtools_1241
+#EXTINF:-1,"CHILE", Camara de Diputados | SD
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
-#EXTINF:-1,iptvtools_1242
+#EXTINF:-1,"CHILE", Camara de Diputados (DVR) | SD
 http://camara.02.cl.cdnz.cl/cdndvr/ngrp:live_all/playlist.m3u8?DVR
-#EXTINF:-1,iptvtools_1246
+#EXTINF:-1,"ARGENTINA", Canal 26 | HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-1,iptvtools_1249
+#EXTINF:-1,"ARGENTINA", Music Top | HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1,iptvtools_1251
+#EXTINF:-1,"ARGENTINA", Canal Provincial | SD
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1,iptvtools_1252
+#EXTINF:-1,"ARGENTINA", Litus | HD
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:-1,iptvtools_1254
+#EXTINF:-1,"HONDURAS", Teleceiba Canal 7 | SD
 http://190.11.224.14:8134/liveevent.m3u8
-#EXTINF:-1,iptvtools_1261
+#EXTINF:-1,"COSTA RICA", Ticavision | SD
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1,iptvtools_1262
+#EXTINF:-1,"SALVADOR", WOW TV | SDiptvtools_1262
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1,iptvtools_1266
+#EXTINF:-1,"Without category", Madrid tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,iptvtools_1274
+#EXTINF:-1,"Without category", REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1,iptvtools_1277
+#EXTINF:-1,"Without category", REALMADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-#EXTINF:-1,iptvtools_1282
+#EXTINF:-1,"Without category", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
